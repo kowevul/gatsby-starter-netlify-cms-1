@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Sample blog post
 date: 2017-01-04T15:04:10.000Z
 description: 'Hey there. This is a sample blog post. '
-featuredpost: false
+featuredpost: true
 featuredimage: /img/chemex.jpg
 tags:
   - brewing
